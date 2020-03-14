@@ -1,5 +1,14 @@
-# Autonomous-Search-and-Sort-System
-A Embedded Design Project, motivated by 
+# Autonomous-Searching-and-Sorting-System
+An autonomous system design project, motivated by real world factory scenario.
 
 # Demo
-![](demoo.gif)
+Here is the full description of the project:smiley:: https://youtu.be/dzMtaqMYtxA 
+
+![](demo.gif)
+
+
+# Description
+This project consists of 3 components:
+* Rovers
+* Electric Arms
+* Sensors
